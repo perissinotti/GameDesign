@@ -6,4 +6,4 @@ In this repository you will find the materials that were produced during the wor
 To view the Presentation online, please click [here](https://docs.google.com/presentation/d/1ruxBpGdVQkQNpgNufUe0tRXRWMbHUzuGTPbenqF_KYU/edit#slide=id.p1).
 
 Click [here](https://gameblox.org/play/22337/) to access to the GameBlox Business game prototype.
-![slide0]()
+![slide0](https://github.com/perissinotti/GameDesign/blob/master/gameblox.png)
